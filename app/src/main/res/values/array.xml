@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="departments">
+        <item>Technical</item>
+        <item>HR</item>
+        <item>Operation</item>
+        <item>Marketing</item>
+        <item>Account</item>
+    </array>
+</resources>
